@@ -1,2 +1,2 @@
 # first-sema-site
-my own site
+this is my own site, so please, don't copy or steal it
